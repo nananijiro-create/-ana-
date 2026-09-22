@@ -16,12 +16,7 @@ global.isBaileysFail = false;
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['5219996125657', '👑 Propietario 👑', true],
-  ['5492916450307'],
-  ['5493794297363'],
-  ['59169082575'],
-  ['595972184435'],
-  ['5215533827255']
+  ['584121341024', 'Propietario', true]
 ];
 
 global.suittag = ['5219993404349'];
@@ -32,10 +27,10 @@ global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
 
 global.packname = 'Sticker';
 global.author = 'BrunoSobrino';
-global.wm = 'The Mystic - Bot';
-global.titulowm = 'Mystic Bot';
-global.titulowm2 = `Mystic Bot`
-global.igfg = 'The Mystic';
+global.wm = '​읬ׅ⚽ึׁ̫𝓝anaׅ♡ׁੴ - Bot';
+global.titulowm = '​읬ׅ⚽ึׁ̫𝓝anaׅ♡ׁੴ';
+global.titulowm2 = `​읬ׅ⚽ึׁ̫𝓝anaׅ♡ׁੴ`
+global.igfg = '​읬ׅ⚽ึׁ̫𝓝anaׅ♡ׁੴ';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
@@ -55,9 +50,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nThe Mystic - Bot`;
+global.wm2 = `${dia} ${fecha}\n​읬ׅ⚽ึׁ̫𝓝anaׅ♡ׁੴ - Bot`;
 global.gt = 'The Mystic - Bot';
-global.mysticbot = 'The Mystic - Bot';
+global.mysticbot = '​읬ׅ⚽ึׁ̫𝓝anaׅ♡ׁੴ - Bot';
 global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
