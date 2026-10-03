@@ -27,10 +27,10 @@ global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
 
 global.packname = 'Sticker';
 global.author = 'BrunoSobrino';
-global.wm = '​읬ׅ⚽ึׁ̫𝓝anaׅ♡ׁੴ - Bot';
-global.titulowm = '​읬ׅ⚽ึׁ̫𝓝anaׅ♡ׁੴ';
-global.titulowm2 = `​읬ׅ⚽ึׁ̫𝓝anaׅ♡ׁੴ`
-global.igfg = '​읬ׅ⚽ึׁ̫𝓝anaׅ♡ׁੴ';
+global.wm = '​ʚׅ👑ึׁ̫ꓟɩᥴᖾᥲᥱᥣׅ♡ׁ🥀ɞ - Bot';
+global.titulowm = '​ʚׅ👑ึׁ̫ꓟɩᥴᖾᥲᥱᥣׅ♡ׁ🥀ɞ';
+global.titulowm2 = `​ʚׅ👑ึׁ̫ꓟɩᥴᖾᥲᥱᥣׅ♡ׁ🥀ɞ`
+global.igfg = 'ʚׅ👑ึׁ̫ꓟɩᥴᖾᥲᥱᥣׅ♡ׁ🥀ɞ';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
