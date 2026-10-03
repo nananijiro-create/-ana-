@@ -50,9 +50,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n​읬ׅ⚽ึׁ̫𝓝anaׅ♡ׁੴ - Bot`;
-global.gt = 'The Mystic - Bot';
-global.mysticbot = '​읬ׅ⚽ึׁ̫𝓝anaׅ♡ׁੴ - Bot';
+global.wm2 = `${dia} ${fecha}\n​ʚׅ👑ึׁ̫ꓟɩᥴᖾᥲᥱᥣׅ♡ׁ🥀ɞ - Bot`;
+global.gt = 'ʚׅ👑ึׁ̫ꓟɩᥴᖾᥲᥱᥣׅ♡ׁ🥀ɞ - Bot';
+global.mysticbot = '​ʚׅ👑ึׁ̫ꓟɩᥴᖾᥲᥱᥣׅ♡ׁ🥀ɞ - Bot';
 global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
