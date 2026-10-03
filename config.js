@@ -33,11 +33,11 @@ global.titulowm2 = `​ʚׅ👑ึׁ̫ꓟɩᥴᖾᥲᥱᥣׅ♡ׁ🥀ɞ`
 global.igfg = 'ʚׅ👑ึׁ̫ꓟɩᥴᖾᥲᥱᥣׅ♡ׁ🥀ɞ';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
-global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
-global.imagen2 = fs.readFileSync('./src/assets/images/menu/languages/pt/menu.png');
-global.imagen3 = fs.readFileSync('./src/assets/images/menu/languages/fr/menu.png')
-global.imagen4 = fs.readFileSync('./src/assets/images/menu/languages/en/menu.png')
-global.imagen5 = fs.readFileSync('./src/assets/images/menu/languages/ru/menu.png')
+global.imagen1 = 'https://i.pinimg.com/736x/bc/55/50/bc5550f568a1e371ac68a4c186999750.jpg';
+global.imagen2 = 'https://i.pinimg.com/736x/bc/55/50/bc5550f568a1e371ac68a4c186999750.jpg';
+global.imagen3 = 'https://i.pinimg.com/736x/bc/55/50/bc5550f568a1e371ac68a4c186999750.jpg';
+global.imagen4 = 'https://i.pinimg.com/736x/bc/55/50/bc5550f568a1e371ac68a4c186999750.jpg';
+global.imagen5 = 'https://i.pinimg.com/736x/bc/55/50/bc5550f568a1e371ac68a4c186999750.jpg';
 
 global.mods = [];
 
